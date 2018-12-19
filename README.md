@@ -4,7 +4,7 @@ Template Code for TOC Project 2019
 
 A Facebook messenger bot based on a finite state machine
 
-function: you can find out the basell team's website~
+一開始輸入list team會進去state1，然後可以選擇你要搜尋哪一支隊伍，重新輸入list team可以重新搜尋。
 
 ## Setup
 
