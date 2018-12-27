@@ -2,7 +2,7 @@ import requests
 
 
 GRAPH_URL = "https://graph.facebook.com/v2.6"
-ACCESS_TOKEN = os.environ['ACCESS_TOKEN']
+ACCESS_TOKEN = 'EAAQ1FLq35agBAHeLZA3dApZAcWZAiSi4zouZByH0ddKFZCHt9iMRuYdaUA1CgGJev14L1m5SCKYsnmBWMS5LGbg4GWhM4gvxSSqgEImC8F46HN4YHpMKio9UnPTrXOeKThCBBzivENG7tZB2DJz0Cizqac1OGulxlSLhMdrmLc3wZDZD'
 
 
 
